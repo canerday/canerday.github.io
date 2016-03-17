@@ -1,7 +1,7 @@
 # Site Settings
 title: 'Sam Canerday'
 title2: 'home'
-description: 'An example of a static blog'
+description: 'An example of a static blog project'
 url: 'http://canerday.net' # the base hostname & protocol for your site
 footer_text: 'Go Go Footer Text.'
 
