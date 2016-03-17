@@ -4,6 +4,7 @@ title: 'cOOL pOSt tITLE'
 date: 2015-08-15 13:26:34
 categories: blog development
 tags: html css javascript
+featured_image: 'https://pixabay.com/static/uploads/photo/2014/09/29/13/33/cool-figure-466114_960_720.jpg'
 lead_text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisquam id sunt, a architecto molestias velit, distinctio quidem non, nostrum provident quibusdam enim. Neque ipsam temporibus commodi facere minima.'
 ---
 

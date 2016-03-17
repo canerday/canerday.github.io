@@ -1,7 +1,7 @@
 # Site Settings
 title: 'Sam Canerday'
 description: 'A personal static blog'
-url: 'http://canerday.github.io' # the base hostname & protocol for your site
+url: #'http://canerday.github.io' # the base hostname & protocol for your site
 footer_text: 'Go Go Footer Text.'
 
 # Admin Settings
