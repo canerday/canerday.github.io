@@ -1,6 +1,6 @@
 # Site Settings
 title: 'Sam Canerday'
-description: 'A personal static jekyll blog'
+description: 'A personal static blog'
 url: 'http://canerday.github.io' # the base hostname & protocol for your site
 footer_text: 'Footer text here.'
 
