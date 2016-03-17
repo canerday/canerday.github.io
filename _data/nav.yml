@@ -1,4 +1,3 @@
 main:
     - { url: '/', text: 'Blog' }
     - { url: '/about', text: 'About' }
-    - { url: 'https://github.com/canerday', text: 'Fork on GitHub' }
