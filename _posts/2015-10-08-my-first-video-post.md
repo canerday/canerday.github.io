@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: 'My First Video Post on Jekyll'
+title: 'My First Video Post'
 date: 2015-08-31 13:26:34
 categories: blog development
 tags: mars videos
